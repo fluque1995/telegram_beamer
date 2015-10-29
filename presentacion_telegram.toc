@@ -1,0 +1,6 @@
+\beamer@endinputifotherversion {3.24pt}
+\beamer@sectionintoc {1}{Introduction}{3}{0}{1}
+\beamer@sectionintoc {2}{Telegram security}{4}{0}{2}
+\beamer@subsectionintoc {2}{1}{MTProto}{5}{0}{2}
+\beamer@subsubsectionintoc {2}{1}{1}{Protocol Schema}{6}{0}{2}
+\beamer@sectionintoc {3}{Open Source and APIs}{9}{0}{3}
